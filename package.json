@@ -1,0 +1,1 @@
+{"name":"eventshield-ai","private":true,"scripts":{"db:up":"docker compose up -d","backend":"cd backend && npm run dev","web":"cd frontend && npm run dev","setup:backend":"cd backend && npm install && npx prisma generate && npx prisma db push && npx tsx prisma/seed.ts","setup:web":"cd frontend && npm install"}}
