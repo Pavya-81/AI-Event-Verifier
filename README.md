@@ -1,6 +1,8 @@
 # EventShield AI
 
 A fast, working prototype of the Challenge 4 college event platform and multimodal verification concept.
+An AI-assisted event verification platform designed to identify
+duplicate, suspicious, misleading, and potentially unreliable event listings.
 
 ## Quick start
 
